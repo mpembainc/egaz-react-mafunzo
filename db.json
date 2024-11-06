@@ -17,14 +17,6 @@
       "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
     },
     {
-      "id": "5",
-      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
-      "price": 695,
-      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-      "category": "jewelery",
-      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
-    },
-    {
       "id": "6",
       "title": "Sol Gold Petite Micropave ",
       "price": 168,
@@ -33,12 +25,48 @@
       "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
     },
     {
-      "id": 19,
+      "id": "19",
       "title": "Opna Women's Short Sleeve Moisture",
       "price": 7.95,
       "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
       "category": "women's clothing",
       "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg"
+    },
+    {
+      "id": "19",
+      "title": "Opna Women's Short Sleeve Moisture",
+      "price": 7.95,
+      "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg"
+    },
+    {
+      "id": "19",
+      "title": "Opna Women's Short Sleeve Moisture",
+      "price": 7.95,
+      "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg"
+    }
+  ],
+  "users": [
+    {
+      "first_name": "Massoud",
+      "last_name": "Ali",
+      "phone": "076546778",
+      "id": "a5e9"
+    },
+    {
+      "id": "c7eb",
+      "first_name": "Ali",
+      "last_name": "Juma",
+      "phone": "076546778"
+    },
+    {
+      "id": "038c",
+      "first_name": "Asha",
+      "last_name": "Saleh",
+      "phone": "83943204923"
     }
   ]
 }
